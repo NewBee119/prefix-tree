@@ -1,5 +1,5 @@
 # prefix-tree
-the implementation of prefix tree and compare  prefix tree with hard match\n
+the implementation of prefix tree and compare  prefix tree with hard match
 本项目是对前缀树的实现以及测试它与硬匹配算法的优劣程度
 suffix.c和suffix.h文件的主要内容有
 （1）前缀树的建立（函数名Build_tree）
